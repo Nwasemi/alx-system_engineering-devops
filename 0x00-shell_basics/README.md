@@ -1,1 +1,1 @@
-To prints the absolute path name of the current working directory
+To print the current working directory
